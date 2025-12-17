@@ -1,5 +1,5 @@
 # Natural Language Interaction Protocol, 1st edition specifications
-The following documents are Official standards approved by Ecma International on 10 December 2025, developed by Ecma TC56 NLIP.
+The following documents are the official standards and technical report approved by Ecma International on 10 December 2025, developed by Ecma TC56 NLIP. All documents may be downloaded free of charge, with no registration required.
 
 *ECMA-430 Natural Language Interaction Protocol (NLIP), 1st edition, December 2025*
 - This Standard defines the specifications of Natural Language Interaction Protocol (NLIP), which is an application-level communication protocol defined between AI Agents or between a human and an AI agent.
@@ -23,7 +23,7 @@ The following documents are Official standards approved by Ecma International on
 - Conformance to this Standard is mandatory for any implementation claiming NLIP conformance.
 - Details on how the security guidelines described in this Standard should be implemented are out of scope of this Standard.
 - This Standard does not cover aspects related to internals of foundation-models, safeguards for physical data centers, or issues related to national export controls.
-- [Download from Ecma International](https://ecma-international.org/wp-content/uploads/ECMA-434_1st_edition_december_2025.pdf) (free of charge, no registration required)
+- [Download from Ecma International](https://ecma-international.org/wp-content/uploads/ECMA-434_1st_edition_december_2025.pdf)
 
 *ECMA TR/113 Explanatory guide to the Natural Language Interactive Protocol (NLIP), 1st edition, December 2025*
 - This Technical Report provides a supporting documentation for the NLIP specifications and binding documents. It includes the motivation, the design philosophy, exemplar use-cases, and examples of sample exchanges. This is an informative document and does not define a standard. In the case of a conflict between this document and the NLIP standards, the standards documents take precedence.
